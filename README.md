@@ -11,7 +11,7 @@
 
 ## What It Does
 
-Smart Alarm Clock
+press different buttons to switch the piezo frequency :D
 
 
 ## How It Works
